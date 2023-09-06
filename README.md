@@ -1,10 +1,10 @@
-[![MasterHead](./assets/gitbanner.png)](https://portfolio.destcom.website)
+[![MasterHead](./assets/gitbanner.png)](https://portfolio.stroyco.eu)
 
 Hi 👋 , I’m @DestroyCom or DestCom, as you want !
 
 I'm currently working as an intern at TF1 Le groupe, the leading French and European TV channel, on the website [MYTF1](https://www.tf1.fr) in the Front-End team.
 
-Check my [Portfolio](https://portfolio.destcom.website) ! :fire:
+Check my [Portfolio](https://portfolio.stroyco.eu) ! :fire:
 
 ---
 
@@ -62,4 +62,4 @@ Here is a list of different projects I have done or participated in that are par
 ## 📫 Want to contact me ?
 
 You can use my contact form on my portfolio, i'll reply you back 
-[portfolio.destcom.website](https://portfolio.destcom.website)
+[portfolio.destcom.website](https://portfolio.stroyco.website)
