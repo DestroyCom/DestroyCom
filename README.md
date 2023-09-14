@@ -62,4 +62,4 @@ Here is a list of different projects I have done or participated in that are par
 ## 📫 Want to contact me ?
 
 You can use my contact form on my portfolio, i'll reply you back 
-[portfolio.destcom.website](https://portfolio.stroyco.website)
+[https://portfolio.stroyco.eu](https://portfolio.stroyco.eu)
