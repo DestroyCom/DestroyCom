@@ -47,7 +47,7 @@ Here is a list of different projects I have done or participated in that are par
 
 - [StroyCord (OpenSource project)](https://github.com/DestroyCom/StroyCord) : It's a Discord bot to link voice-chats and youtube :eyes:
 
-- [StroyGetter (OpenSource project)](https://github.com/DestroyCom/StroyGetter) : A webapp & native app to download things from youtube _(please don't sue me)_
+- [StroyGetter (OpenSource project)](https://github.com/DestroyCom/StroyGetter) : A PWA made with react to download things from youtube _(please don't sue me)_
 
 - [Weatherplay](https://github.com/DestCom-Technical-Test/weatherplay) & [Wither](https://github.com/DestCom-Student-Projects/Wither-Forecast) : Two simple weather forecast webapps, I like them because you can see the evolution of my code and design style in a little less than a year
 
