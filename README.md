@@ -2,7 +2,7 @@
 
 Hi 👋 , I’m @DestroyCom or DestCom, as you want !
 
-I'm currently working as an intern at TF1 Le groupe, the leading French and European TV channel, on the website [MYTF1](https://www.tf1.fr) in the Front-End team.
+I'm currently working as an intern at TF1 Le groupe, the leading French and European TV channel, on the website [TF1+](https://www.tf1.fr) in the Front-End team.
 
 Check my [Portfolio](https://portfolio.stroyco.eu) ! :fire:
 
@@ -18,7 +18,7 @@ Check my [Portfolio](https://portfolio.stroyco.eu) ! :fire:
 
 - :sparkles: My current dream job would be to work at Ubisoft
 
-- :telescope: I’m currently working on [MYTF1](https://www.tf1.fr) as an intern at TF1 Le groupe
+- :telescope: I’m currently working on [TF1+](https://www.tf1.fr) as an intern at TF1 Le groupe
 
 - :computer: I study at [HETIC](https://www.hetic.net/) in Montreuil, France
 
