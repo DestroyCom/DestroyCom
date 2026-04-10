@@ -79,10 +79,8 @@ Collaborating with major brands and specialized institutions to deliver custom d
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=destroycom&show_icons=true&theme=prussian&count_private=true" alt="Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destroycom&layout=compact&theme=prussian" alt="Langs" height="180" />
-</p>
+[![DestroyCom's github stats](https://github-readme-stats.vercel.app/api?username=destroycom&show_icons=true&theme=prussian)](https://github.com/DestroyCom)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=destroycom&theme=prussian)](https://github.com/DestroyCom)
 
 ---
 
