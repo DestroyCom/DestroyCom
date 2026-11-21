@@ -73,7 +73,7 @@ Collaborating with major brands and specialized institutions to deliver custom d
 - 🎮 Video games enthusiast, cinema lover 🎬, and photography hobbyist 📸.
 - 🎵 **Currently Playing:**
   <br>
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21niv2ytohcklfghl57l7fzba&width=500&count=3)
+  [![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=21niv2ytohcklfghl57l7fzba&theme=spotify&count=8&width=780&radius=5&duration=1&username=off)](https://open.spotify.com/user/21niv2ytohcklfghl57l7fzba)
 
 ---
 
